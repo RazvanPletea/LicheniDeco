@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "image": "/products-images/tablou1.png",
+    "name": "Tablou licheni ",
+    "description": " Descoperiți colecția noastră de tablouri elegante și rafinate, create cu grijă de artiști talentați. Transformați-vă spațiul într-o galerie de artă și adăugați un strop de eleganță în mediul dumneavoastră de lucru.",
+    "price": "1000 lei"
+  },
+  {
+    "id": 2,
+    "image": "/products-images/tablou2.png",
+    "name": "Tablou licheni",
+    "description": "Descoperiți colecția noastră de tablouri elegante și rafinate, create cu grijă de artiști talentați. Transformați-vă spațiul într-o galerie de artă și adăugați un strop de eleganță în mediul dumneavoastră de lucru.",
+    "price": "1100 lei"
+  },
+  {
+    "id": 3,
+    "image": "/products-images/tablou3.png",
+    "name": "Tablou licheni",
+    "description": "Descoperiți colecția noastră de tablouri elegante și rafinate, create cu grijă de artiști talentați. Transformați-vă spațiul într-o galerie de artă și adăugați un strop de eleganță în mediul dumneavoastră de lucru.",
+    "price": "1200 lei"
+  },
+  {
+    "id": 4,
+    "image": "/products-images/tablou4.png",
+    "name": "Tablou licheni",
+    "description": "Descoperiți colecția noastră de tablouri elegante și rafinate, create cu grijă de artiști talentați. Transformați-vă spațiul într-o galerie de artă și adăugați un strop de eleganță în mediul dumneavoastră de lucru.",
+    "price": "1500 lei"
+  },
+  {
+    "id": 5,
+    "image": "/products-images/tablou5.png",
+    "name": "Tablou licheni",
+    "description": "Descoperiți colecția noastră de tablouri elegante și rafinate, create cu grijă de artiști talentați. Transformați-vă spațiul într-o galerie de artă și adăugați un strop de eleganță în mediul dumneavoastră de lucru.",
+    "price": "1800 lei"
+  },
+  {
+    "id": 6,
+    "image": "/products-images/decoratiune3.png",
+    "name": "Decoratiune licheni",
+    "description": "Explorați colecția noastră de decoratiuni cu licheni, pentru a aduce un aer natural și sofisticat în spațiul dumneavoastră. Transformați-vă mediul de lucru într-un colț plin de eleganță și rafinament, cu produse create cu atenție și talent de către experții noștri.",
+    "price": "800 lei"
+  },
+  {
+    "id": 7,
+    "image": "/products-images/decoratiune4.png",
+    "name": "Decoratiune licheni",
+    "description": "Explorați colecția noastră de decoratiuni cu licheni, pentru a aduce un aer natural și sofisticat în spațiul dumneavoastră. Transformați-vă mediul de lucru într-un colț plin de eleganță și rafinament, cu produse create cu atenție și talent de către experții noștri.",
+    "price": "890 lei"
+  },
+  {
+    "id": 8,
+    "image": "/products-images/decoratiune5.png",
+    "name": "Decoratiune licheni",
+    "description": "Explorați colecția noastră de decoratiuni cu licheni, pentru a aduce un aer natural și sofisticat în spațiul dumneavoastră. Transformați-vă mediul de lucru într-un colț plin de eleganță și rafinament, cu produse create cu atenție și talent de către experții noștri.",
+    "price": "645 lei"
+  },
+  {
+    "id": 9,
+    "image": "/images/Licheni.Decoratiuni2.jpg",
+    "name": "Decoratiune licheni",
+    "description": "Explorați colecția noastră de decoratiuni cu licheni, pentru a aduce un aer natural și sofisticat în spațiul dumneavoastră. Transformați-vă mediul de lucru într-un colț plin de eleganță și rafinament, cu produse create cu atenție și talent de către experții noștri.",
+    "price": "1200 lei"
+  },
+  {
+    "id": 10,
+    "image": "/products-images/decoratiune2.png",
+    "name": "Decoratiune licheni",
+    "description": "Explorați colecția noastră de decoratiuni cu licheni, pentru a aduce un aer natural și sofisticat în spațiul dumneavoastră. Transformați-vă mediul de lucru într-un colț plin de eleganță și rafinament, cu produse create cu atenție și talent de către experții noștri.",
+    "price": "950 lei"
+  },
+  {
+    "id": 11,
+    "image": "/products-images/pereti1.png",
+    "name": "Pereti Verzi",
+    "description": "Transformați-vă mediul de lucru sau casa într-un loc elegant și proaspăt, cu pereti verzi de calitate superioară, concepuți cu grijă de către experții noștri.",
+    "price": "11200 lei"
+  },
+  {
+    "id": 12,
+    "image": "/products-images/pereti2.png",
+    "name": "Pereti Verzi",
+    "description": "Transformați-vă mediul de lucru sau casa într-un loc elegant și proaspăt, cu pereti verzi de calitate superioară, concepuți cu grijă de către experții noștri.",
+    "price": "4500 lei"
+  },
+  {
+    "id": 13,
+    "image": "/products-images/pereti3.png",
+    "name": "Pereti Verzi",
+    "description": "Transformați-vă mediul de lucru sau casa într-un loc elegant și proaspăt, cu pereti verzi de calitate superioară, concepuți cu grijă de către experții noștri.",
+    "price": "2200 lei"
+  },
+  {
+    "id": 14,
+    "image": "/products-images/pereti4.png",
+    "name": "Pereti Verzi",
+    "description": "Transformați-vă mediul de lucru sau casa într-un loc elegant și proaspăt, cu pereti verzi de calitate superioară, concepuți cu grijă de către experții noștri.",
+    "price": "5950 lei"
+  },
+  {
+    "id": 15,
+    "image": "/products-images/pereti5.png",
+    "name": "Pereti Verzi",
+    "description": "Transformați-vă mediul de lucru sau casa într-un loc elegant și proaspăt, cu pereti verzi de calitate superioară, concepuți cu grijă de către experții noștri.",
+    "price": "3950 lei"
+  },
+  {
+    "id": 16,
+    "image": "/products-images/pereti6.png",
+    "name": "Pereti Verzi",
+    "description": "Transformați-vă mediul de lucru sau casa într-un loc elegant și proaspăt, cu pereti verzi de calitate superioară, concepuți cu grijă de către experții noștri.",
+    "price": "1950 lei"
+  },
+  {
+    "id": 17,
+    "image": "/products-images/pereti7.png",
+    "name": "Pereti Verzi",
+    "description": "Transformați-vă mediul de lucru sau casa într-un loc elegant și proaspăt, cu pereti verzi de calitate superioară, concepuți cu grijă de către experții noștri.",
+    "price": "2950 lei"
+  }
+]

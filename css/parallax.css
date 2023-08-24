@@ -1,0 +1,181 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  transition: all 0.2s linear;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #003329;
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: 120rem;
+  margin: 0 auto;
+}
+
+.test {
+  position: relative;
+  background-color: #003329;
+  padding: 100px;
+  font-size: 2rem;
+  margin-top: 0;
+  z-index: 9999;
+}
+
+.parallax {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Use min-height instead of fixed height */
+}
+
+.text {
+  position: relative;
+  font-size: 5rem;
+  color: black;
+  text-transform: uppercase;
+  z-index: -1; /* Set a lower z-index for the text */
+}
+
+.plant {
+  position: relative;
+  z-index: 5;
+}
+
+.parallax img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  pointer-events: none;
+  z-index: -1; /* Set a lower z-index for the images */
+}
+
+/* image grid */
+/* .grid-item img {
+  float: right;
+  width: 200px;
+  height: 300px;
+  border: 2px solid hsla(0, 0%, 0%, 0.5);
+} */
+
+.grid-container {
+  max-width: 130rem;
+  margin: 0 auto;
+  column-count: 4;
+  column-gap: 10px;
+}
+
+.grid-item {
+  width: 100%;
+  /* margin-bottom: 1rem; */
+  break-inside: avoid;
+}
+
+.grid-item img {
+  width: 100%;
+  height: 45rem;
+  object-fit: contain;
+}
+
+img:hover {
+  transform: scale(1.1);
+  position: relative;
+  z-index: 10000;
+}
+
+.stretch1 img {
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  height: 20rem;
+  object-fit: cover;
+}
+
+.stretch2 img {
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  height: 40rem;
+  object-fit: cover;
+}
+
+.stretch3 img {
+  width: 100%;
+  margin-bottom: 1rem;
+  height: 60rem;
+  object-fit: cover;
+}
+
+.stretch4 img {
+  width: 100%;
+  margin-bottom: 1rem;
+  height: 80rem;
+  object-fit: cover;
+}
+
+/* clearfix */
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .parallax {
+    min-height: 50vh; /* Adjust the height as needed for smaller screens */
+  }
+
+  .text {
+    font-size: 3rem; /* Adjust the font size for smaller screens */
+  }
+}
+
+/* 
+
+*/
+
+@media (max-width: 767px) {
+  .grid-item {
+    max-width: 150%; /* Adjust the max-width as needed */
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2rem;
+  }
+
+  .grid-container {
+    column-count: 1;
+    column-gap: 0;
+    margin: 0 auto;
+  }
+
+  .stretch1 img {
+    height: 15rem;
+  }
+
+  .stretch2 img {
+    height: 30rem;
+  }
+
+  .stretch3 img {
+    height: 45rem;
+  }
+
+  .stretch4 img {
+    height: 60rem;
+  }
+
+  .test {
+    padding: 20px;
+    z-index: 9999;
+  }
+}
